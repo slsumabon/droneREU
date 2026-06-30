@@ -1,0 +1,2 @@
+time,strategy,state,action,label,confidence,filtered_confidence,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y,width,height
+2026-06-30T14:17:40.374070,test,search,continue,,,0.0,,,,,,,,
